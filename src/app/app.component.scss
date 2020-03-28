@@ -1,0 +1,15 @@
+mat-toolbar {
+  background-color: rgba(3, 42, 94, 0.973);
+  color: white;
+  .title {
+    font-size: 30px;
+  }
+  .spacer {
+    flex: 1 1 auto;
+  }
+  a {
+    font-size: medium;
+    font-weight: 200;
+    margin-left: 25px;
+  }
+}
